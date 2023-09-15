@@ -54,9 +54,9 @@ ram.runtime = "50M"
     [resources.sources]
 
         [resources.sources.main]
-        url = "https://github.com/monicahq/monica/archive/refs/tags/v5.0.0-beta.2.zip"
-        sha256 = "62f1f8df345632003563f22fce828c12c98be7918badb8997833b2579b40b043"
-        autoupdate.strategy = "latest_github_tag"
+        url = "https://github.com/monicahq/monica/archive/refs/tags/v5.0.0-beta.2.tar.gz"
+        sha256 = "bce9d1e0368d2efafc695e60a70b6c3bad10d7df2d519e2ec6d51daee666a0b1"
+        
         
     [resources.system_user]
 
